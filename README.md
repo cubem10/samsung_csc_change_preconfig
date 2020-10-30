@@ -5,4 +5,7 @@ Galaxy S10 (SM-G973N, September 1st Security Patch)
   
 How to use:  
 You'll need to install substratum lite and Synergy from Play Store.  
-And just install an overlay for setting app.
+And just install an overlay for setting app.  
+
+Credits:  
+Special thanks to projekt development team for theme template and great overlay tools
